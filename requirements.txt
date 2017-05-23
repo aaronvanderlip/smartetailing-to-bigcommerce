@@ -1,0 +1,2 @@
+-e git://github.com/aaronvanderlip/bigcommerce-api-python.git#egg=bigcommerce
+httplib2
